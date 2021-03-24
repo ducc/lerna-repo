@@ -1,5 +1,5 @@
 {
-  "name": "@ducc/lerna-repo-organisms",
+  "name": "@ducc/lerna-repo",
   "version": "1.3.0",
   "description": "> TODO: description",
   "author": "Joe Burnard <joe.burnard@nandos.co.uk>",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "e033c17f8f8c9112d5aa6eb119f6f0407453bfee"
+  "gitHead": "fb3265e5ebf7711688c0688eaf23771a4ba59b3a"
 }
