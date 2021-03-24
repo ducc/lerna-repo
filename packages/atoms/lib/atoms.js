@@ -3,5 +3,5 @@
 module.exports = atoms;
 
 function atoms() {
-    // TODO
+    console.log("This is a new change!")
 }
