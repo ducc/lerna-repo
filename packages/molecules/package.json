@@ -1,0 +1,19 @@
+{
+  "name": "molecules",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Joe Burnard <joe.burnard@nandos.co.uk>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/molecules.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
