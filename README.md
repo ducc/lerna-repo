@@ -19,3 +19,11 @@ lerna info execute Skipping releases
 lerna info git Pushing tags...
 lerna success version finished
 ```
+
+```
+❯ lerna version patch
+lerna notice cli v4.0.0
+lerna info current version 0.0.1
+lerna info Looking for changed packages since v0.0.1
+lerna success No changed packages to version
+```
